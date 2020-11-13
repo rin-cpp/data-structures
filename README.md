@@ -1,3 +1,2 @@
 # data-structures
-Circular queue using array
-Stack using array 
+Circular queue using array - Stack using array 
